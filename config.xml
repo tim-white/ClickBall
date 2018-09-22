@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget
+  xmlns     ="http://www.w3.org/ns/widgets"
+  xmlns:gap ="http://phonegap.com/ns/1.0"
+  xmlns:android = "http://schemas.android.com/apk/res/android"
+  id        ="com.example.AccelerometerGame"
+  version   ="0.0.1">
+  <name>Guess What</name>
+  <description>Tricks with the Accelerometer </description>
+  <author href="http://www.example.com" email="me@example.com">Me</author>
+  <platform name="android"/>
+  <!--plugin name="cordova-plugin-device-motion" spec="1.2.2" source="npm" /-->
+  <preference name="android-targetSdkVersion" value="22" />
+  </widget>

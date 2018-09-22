@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+#scoreLine {
+	position: absolute;
+	left: 0px;
+	color: white;
+	font-size: 24pt;
+}
